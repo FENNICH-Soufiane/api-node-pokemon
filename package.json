@@ -28,9 +28,5 @@
   "keywords": [
     "example",
     "heroku"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://git.heroku.com/pure-thicket-47590.git"
-  }
+  ]
 }
